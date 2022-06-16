@@ -1,7 +1,20 @@
 ![Banner Image](/images/banner.png)
 
 
-### Hi there, I´m Manuel👋
+# Hi there, I´m Manuel👋
+
+### Skills
+
+* HTML5
+* CSS3
+* JavaScript
+* SASS
+
+## Contact:
+
+* Linkedin: https://www.linkedin.com/in/manuel-peysere/
+* E-mail: manupeysere98@gmail.com
+
 <!--
 **ManuelPeysere/ManuelPeysere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
